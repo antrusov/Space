@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceLib", "SpaceLib\SpaceLib.csproj", "{C72CC4EE-8C66-4281-BE12-409750B85C0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCon", "SpaceCon\SpaceCon.csproj", "{8CCB5EE1-021C-4EDD-9546-7120C8F92A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XnaGeometry", "XnaGeometry\XnaGeometry.csproj", "{A4398650-10F4-450F-8E4F-FB3F30A39683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceWin", "SpaceWin\SpaceWin.csproj", "{CD277C61-6508-49F4-8AD4-4851BF5A97E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{43F37D5C-8C10-4CA9-B4CD-61FDC1AB229D}"
+	ProjectSection(SolutionItems) = preProject
+		Build\Data\Jupter.xml = Build\Data\Jupter.xml
+		Build\Data\Sol.xml = Build\Data\Sol.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{89188B15-F806-444B-854F-C58EA5336D1F}"
+	ProjectSection(SolutionItems) = preProject
+		Doc\_SE.doc = Doc\_SE.doc
+		Doc\analiz-rezultatov-modelirovaniya-mezhplanetnyh-pereletov-s-elektroreaktivnoy-dvigatelnoy-ustanovkoy.pdf = Doc\analiz-rezultatov-modelirovaniya-mezhplanetnyh-pereletov-s-elektroreaktivnoy-dvigatelnoy-ustanovkoy.pdf
+		Doc\Background.pdf = Doc\Background.pdf
+		Doc\MarsOrbit.pdf = Doc\MarsOrbit.pdf
+		Doc\move.pdf = Doc\move.pdf
+		Doc\prep2013_22.pdf = Doc\prep2013_22.pdf
+		Doc\priblizhennyy-sintez-optimalnyh-traektoriy-zemlya-luna-zemlya-s-vyhodom-na-orbitu-iskusstvennogo-sputnika-luny.pdf = Doc\priblizhennyy-sintez-optimalnyh-traektoriy-zemlya-luna-zemlya-s-vyhodom-na-orbitu-iskusstvennogo-sputnika-luny.pdf
+		Doc\SmallDrive.pdf = Doc\SmallDrive.pdf
+		Doc\Zapusk.doc = Doc\Zapusk.doc
+		Doc\запуск КА.pdf = Doc\запуск КА.pdf
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitWin", "OrbitWin\OrbitWin.csproj", "{58602A74-45EC-4ABF-86BF-24172D1045DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72CC4EE-8C66-4281-BE12-409750B85C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72CC4EE-8C66-4281-BE12-409750B85C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72CC4EE-8C66-4281-BE12-409750B85C0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72CC4EE-8C66-4281-BE12-409750B85C0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCB5EE1-021C-4EDD-9546-7120C8F92A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCB5EE1-021C-4EDD-9546-7120C8F92A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCB5EE1-021C-4EDD-9546-7120C8F92A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCB5EE1-021C-4EDD-9546-7120C8F92A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4398650-10F4-450F-8E4F-FB3F30A39683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4398650-10F4-450F-8E4F-FB3F30A39683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4398650-10F4-450F-8E4F-FB3F30A39683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4398650-10F4-450F-8E4F-FB3F30A39683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD277C61-6508-49F4-8AD4-4851BF5A97E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD277C61-6508-49F4-8AD4-4851BF5A97E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD277C61-6508-49F4-8AD4-4851BF5A97E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD277C61-6508-49F4-8AD4-4851BF5A97E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58602A74-45EC-4ABF-86BF-24172D1045DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58602A74-45EC-4ABF-86BF-24172D1045DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58602A74-45EC-4ABF-86BF-24172D1045DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58602A74-45EC-4ABF-86BF-24172D1045DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

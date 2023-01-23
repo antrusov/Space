@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SpaceWin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">400, 80</Value>
+    </Setting>
+    <Setting Name="MainLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">100, 100</Value>
+    </Setting>
+    <Setting Name="ViewerSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">400, 400</Value>
+    </Setting>
+    <Setting Name="ViewerLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="SettingsSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">200, 300</Value>
+    </Setting>
+    <Setting Name="SettingsLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">400, 0</Value>
+    </Setting>
+    <Setting Name="GraphsSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">800, 300</Value>
+    </Setting>
+    <Setting Name="GraphsLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 400</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,6 @@
+http://pskgu.ru/ebooks/astro3.html
+
+http://www.sai.msu.ru/neb/rw/natsat/plaorbw.htm - элементы орбит планет солнечной системы
+
+todo:
+- подгонка размера камеры под размеры системы (в т.ч. скорости перемещения)

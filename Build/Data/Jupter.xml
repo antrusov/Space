@@ -1,0 +1,5 @@
+<Root Name="Jupter" Mass="317.832">
+  <Child Name="Themisto/Jupiter XVIII" A="0.05018048128" E="0.2420" ArgOfPericen="238.413" Inclination="47.584" AscendingNode="223.444" MeanAnomaly="289.151" Mass="1.16E-10" />
+  <Child Name="Leda/Jupiter XIII"      A="0.07787433154" E="0.1636" ArgOfPericen="275.215" Inclination="28.776" AscendingNode="235.611" MeanAnomaly="232.639" Mass="1.8E-9" />
+  <Child Name="Himalia/Jupiter VI"     A="0.07661096256" E="0.1623" ArgOfPericen="316.73"  Inclination="30.182" AscendingNode="90.236"  MeanAnomaly="78.236" Mass="1.12E-6" />
+</Root>
